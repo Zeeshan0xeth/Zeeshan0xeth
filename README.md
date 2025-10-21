@@ -14,8 +14,8 @@ Hi, I'm Zeeshan
 
 ---
 
-<a href="https://x.com/Shanxweb3?t=zLxRDt4zsebaYnsLPyDSRg&s=09" target="_blank">
-  <img src="https://x.com/Zeeshan0xeth?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" alt="X (Twitter)">
+<a href="https://x.com/Zeeshan0xeth?t=eBe8Q6AmIj4dZ4_DNuKf7A&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/X-24292f?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
 &nbsp;
 <a href="https://t.me/+DazTV2DuPN81OTI1" target="_blank">
